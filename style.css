@@ -1,3 +1,7 @@
 .purpleText {
     color: purple;
 }
+
+#biggerText {
+    font-size: 40px;
+}
