@@ -3,5 +3,9 @@
 }
 
 #biggerText {
-    font-size: 40px;
+    font-size: 60px;
+}
+
+body {
+    margin: 15px;
 }
