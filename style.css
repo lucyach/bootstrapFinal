@@ -15,9 +15,9 @@ img {
     height: 100px;
 }
 
-
-button {
-    color: black;
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
 }
 
 #carouselExampleControls {
