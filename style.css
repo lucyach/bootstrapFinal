@@ -18,3 +18,7 @@ img {
 button {
     color: black;
 }
+
+#carouselExampleControls {
+    text-align: center;
+}
